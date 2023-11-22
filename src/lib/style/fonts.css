@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-Bold.woff2') format('woff2'),
+        url('/fonts/Apercu-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-Light.woff2') format('woff2'),
+        url('/fonts/Apercu-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-Italic.woff2') format('woff2'),
+        url('/fonts/Apercu-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-LightItalic.woff2') format('woff2'),
+        url('/fonts/Apercu-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-BoldItalic.woff2') format('woff2'),
+        url('/fonts/Apercu-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu.woff2') format('woff2'),
+        url('/fonts/Apercu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-MediumItalic.woff2') format('woff2'),
+        url('/fonts/Apercu-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-Medium.woff2') format('woff2'),
+        url('/fonts/Apercu-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/fonts/ApercuPro-Light.woff2') format('woff2'),
+        url('/fonts/ApercuPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu';
+    src: url('/fonts/Apercu-Mono.woff2') format('woff2'),
+        url('/fonts/Apercu-Mono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/fonts/ApercuPro-Bold.woff2') format('woff2'),
+        url('/fonts/ApercuPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/fonts/ApercuPro-Regular.woff2') format('woff2'),
+        url('/fonts/ApercuPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/fonts/ApercuPro-Medium.woff2') format('woff2'),
+        url('/fonts/ApercuPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jubilat';
+    src: url('/fonts/JubilatMedium-Roman.woff2') format('woff2'),
+        url('/fonts/JubilatMedium-Roman.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kirang Haerang';
+    src: url('/fonts/KirangHaerang-Regular.woff2') format('woff2'),
+        url('/fonts/KirangHaerang-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -7,7 +7,7 @@
 </svelte:head>
 
 <h1>
-    This is the new INK - DRY Project
+    This is the new INK - DRY Project.
 </h1>
 
 <style>

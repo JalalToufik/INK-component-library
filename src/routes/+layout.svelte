@@ -1,5 +1,5 @@
 <script>
-    // import '../lib/style/fonts.css'
+    import '../lib/style/fonts.css'
 </script>
 
 
