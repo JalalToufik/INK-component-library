@@ -1,5 +1,8 @@
 {
 	"/": [
 		"src/routes/+page.server.js"
-	]
+	],
+	"/about": [],
+	"/becomeSponsor": [],
+	"/promise": []
 }

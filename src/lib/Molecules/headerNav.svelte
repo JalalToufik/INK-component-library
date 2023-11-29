@@ -56,7 +56,10 @@
         width: 100%;
         z-index: 3;
         padding: 0 1em;
+    }
 
+    nav > a{
+        display: inline-block;
     }
 
     nav ul {
@@ -119,15 +122,23 @@
 
     nav .menu-icon {
         cursor: pointer;
-        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         float: right;
-        padding: 44px 44px;
+        width: 3em;
+        height: 3em;
         position: relative;
+        top: 1.3em;
+        right: 1em;
         user-select: none;
+        background-color: var(--candelLight);
+        border-radius: 50%;
+
     }
 
     nav .menu-icon .navicon {
-        background: var(--justWhite);
+        background: var(--charcoal);
         display: block;
         height: 3px;
         position: relative;
@@ -137,7 +148,7 @@
 
     nav .menu-icon .navicon:before,
     nav .menu-icon .navicon:after {
-        background: var(--justWhite);
+        background: var(--charcoal);
         content: '';
         display: block;
         height: 100%;
@@ -161,7 +172,7 @@
     }
 
     nav .menu-btn:checked ~ .menu {
-        max-height: 50vh;
+        max-height: 60em;
     }
 
     nav .menu-btn:checked ~ .menu-icon .navicon {

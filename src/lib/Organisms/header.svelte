@@ -6,6 +6,9 @@
     <HeaderNav />
 </header>
 
-<style scoped>
+<style>
 
+header{
+    padding-bottom: 6.6em;
+}
 </style>
