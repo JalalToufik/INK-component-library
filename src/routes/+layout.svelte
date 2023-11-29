@@ -1,12 +1,14 @@
 <script>
-    import '../lib/style/fonts.css'
+    import '../lib/styles/fonts.css';
+    import { Header, Stats } from "../lib/index.js";
+
 </script>
 
+<Header />
 
+<Stats />
 
-<main>
-    <slot />
-</main>
+<slot />
 
 <style>
 
@@ -39,11 +41,12 @@
 
 
     :global(body) {
-    background-color: var(--jungleDarkGreen);
-    color: var(--justWhite);
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
+        background-color: var(--jungleDarkGreen);
+        color: var(--justWhite);
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+        overflow-y: scroll;
     }
 
 </style>
