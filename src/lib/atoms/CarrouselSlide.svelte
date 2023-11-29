@@ -1,14 +1,10 @@
 
 <article class="carrousel-item" aria-hidden="false">
-    <div class="carrousel-item-image">
-        <img src="/assets/image 253.png" alt="children playing">
-    </div>
+    
     <h3>Iaculis nulla a nam pharetra augue congue.</h3>
 </article>
 
 <style>
-
-
 .carrousel-item {
   background-image: url(/assets/item-bg-shape.svg);
   background-repeat: no-repeat;
