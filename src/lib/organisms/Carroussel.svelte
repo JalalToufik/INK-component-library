@@ -1,5 +1,5 @@
 <script>
-    import { CarrouselButton, CarrouselSlide, CarrouselImages, CarrouselNavigatie } from '$lib/index.js'
+    import { CarrouselButton, CarrouselSlide, CarrouselNavigatie } from '$lib/index.js'
   
   </script>
 
@@ -8,7 +8,7 @@
   
     <CarrouselSlide />
   
-    <CarrouselImages/>
+    <!-- <CarrouselImages/> -->
 
     <CarrouselNavigatie/>
   </header>
