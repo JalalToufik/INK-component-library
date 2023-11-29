@@ -15,3 +15,4 @@ export { default as CarrouselNavigatie } from './atoms/CarrouselNavigatie.svelte
 
 export { default as Header } from './organisms/Header.svelte'
 export { default as Carrousel } from './atoms/Carrousel.svelte'
+export { default as MainHead } from './organisms/MainHead.svelte'
